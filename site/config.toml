@@ -3,7 +3,7 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "Aline Botelho"
 
 # css plugins
 [[params.plugins.css]]
@@ -28,7 +28,7 @@ URL = "plugins/shuffle/shuffle.min.js"
 # menu
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "Sobre"
 weight = 2
 
 
@@ -49,7 +49,7 @@ phone = "+880 2544 658 256"
 email = "steve.fruits@email.com"
 address = "125/A, CA Commercial Area, California, USA"
 # meta description
-author = "Johnathan Smith"
+author = "Aline Botelho"
 description = "This is meta description"
 # google analitycs
 google_analitycs_id = "" # Your ID

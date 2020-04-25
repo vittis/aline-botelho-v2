@@ -1,13 +1,13 @@
 ---
-title: "About"
+title: "Sobre"
 date: 2019-05-12T12:14:34+06:00
 description: "This is meta description."
-author_image : "images/about/author.jpg"
-author_signature : "images/about/signature.png"
+author_image : "images/about/author.png"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Ola! Meu nome é Aline, tenho 24 anos e sou UI/UX Designer. Me formei em Publicidade e Propaganda em 2016 e agora estou na reta final da pós graduação em Marketing Digital. Com os trabalhos que desenvolvi até hoje adquiri experiência em softwares do pacote Adobe, Figma e noções de HTML e CSS.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+Quando conheci a área de design UI/UX fiquei apaixonada e desde então então tenho me dedicado a aprender sobre cada etapa da concepção de um produto, desde proporcionar uma ótima experiência para o usuário até pensar em qual a melhor aparência que essa interface irá receber.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Meus contatos estão logo ali embaixo, sinta-se à vontade para entrar em contato comigo e batermos um papo sobre design, jornada do usuário, os melhores métodos de pesquisa e muitos outros assuntos sobre o incrível mundo do design! :D
+

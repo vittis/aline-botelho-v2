@@ -1,14 +1,14 @@
 # banner
 banner:
-  title: "Oi! Eu sou <br> Xuxu Xulezento <br> n lavo a mão"
+  title: "Oi! Eu sou Aline <br> Designer UI/UX"
 
 # about
 about:
   enable: true
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content: "Focada em criar experiências centradas no usuário para agregar valor aos produtos e atender as necessidades dos clientes em uma belíssima jornada por sites, aplicativos e softwares"
   button:
     enable: true
-    label: "know more"
+    label: "Saber mais"
     URL: "about"
 
 # skill
@@ -34,44 +34,39 @@ skill:
 
 # experience
 experience:
-  enable: false
-  title: "Experience"
+  enable: true
+  title: "Experiência"
   item:
     - logo: "images/experience/icon-1.png"
-      title: "Junior UX Designer"
-      company: "WEBEX"
-      duration: "Jan 2007 - Feb 2009"
+      title: "Assistente de Marketing"
+      company: "TIT Consultoria e serviços"
+      duration: "Jun 2018 - Dez 2019"
 
     - logo: "images/experience/icon-2.png"
-      title: "UX & UI Designer"
-      company: "AUGMEDIX"
-      duration: "Mar 2009 - Aug 2014"
-
-    - logo: "images/experience/icon-1.png"
-      title: "Senior UI Designer"
-      company: "THEMEFISHER"
-      duration: "Sep 2014 - Present"
+      title: "Social Media"
+      company: "Aprimora Treinamentos"
+      duration: "Maio 2017 - Abril 2018"
 
 # education
 education:
-  enable: false
-  title: "Education"
+  enable: true
+  title: "Educação"
   item:
-    - title: "Marters in UX Design"
-      year: "2006"
-      academy: "Masassusets Institute of Technology"
+    - title: "Design de Interfaces: UI com foco em UX"
+      year: "2020"
+      academy: "UX Unicórnio"
 
-    - title: "Honours in Fine Arts"
-      year: "2004"
-      academy: "Harvard University"
+    - title: "UId Design"
+      year: "2019"
+      academy: "Origamid"
 
-    - title: "Higher Secondary Certificat"
-      year: "2000"
-      academy: "Cardiff School"
+    - title: "Pós graduação | Marketing Digital"
+      year: "2018 - atual"
+      academy: "Estácio de Sá"
 
-    - title: "Secondary School Certificate"
-      year: "1998"
-      academy: "Cardiff School"
+    - title: "Graduação | Publicidade e Propaganda"
+      year: "2016"
+      academy: "Estácio de Sá"
 
 # service
 service:
@@ -97,7 +92,7 @@ service:
 portfolio:
   enable: true
   title: "Portfolio"
-  item_show: 5
+  item_show: 3
   # portfolio item comes from 'data/portfolio.yml' item.
 
 # testimonial
