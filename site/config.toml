@@ -45,12 +45,11 @@ logo = "images/logo.png"
 # theme color
 theme_color = "#41228e"
 # contact info
-phone = "+880 2544 658 256"
-email = "steve.fruits@email.com"
-address = "125/A, CA Commercial Area, California, USA"
+phone = "61 99511-9932"
+email = "alinnyfb@gmail.com"
 # meta description
 author = "Aline Botelho"
-description = "This is meta description"
+description = "Aline Botelho - UI/UX Designer"
 # google analitycs
 google_analitycs_id = "" # Your ID
 # copyright
@@ -69,5 +68,5 @@ preloader = "" # use png, jpg, svg or gif format
 
 # social site
 [[params.social]]
-URL = "#"
+URL = "https://www.linkedin.com/in/aline-botelho"
 icon = "ti-linkedin"
