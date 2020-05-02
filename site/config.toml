@@ -70,3 +70,11 @@ preloader = "" # use png, jpg, svg or gif format
 [[params.social]]
 URL = "https://www.linkedin.com/in/aline-botelho"
 icon = "ti-linkedin"
+
+[[params.social]]
+URL = "https://www.facebook.com/alinny.botelho"
+icon = "ti-facebook"
+
+[[params.social]]
+URL = "https://www.behance.net/Alinnyfb1b72"
+icon = "ti-dribbble"

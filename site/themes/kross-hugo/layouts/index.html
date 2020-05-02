@@ -184,7 +184,7 @@
   {{ if .Site.Data.homepage.portfolio.enable }}
   <!-- portfolio -->
   <section class="section">
-    <div class="container">
+    <div class="container portfolio-kek">
       <div class="row">
         <div class="col-12 text-center">
           <h2 class="section-title">{{ .Site.Data.homepage.portfolio.title | markdownify }}</h2>
@@ -199,7 +199,7 @@
             {{ if and ( ne .project_url "" ) ( ne .project_url "#" ) }}
             <div class="hover-overlay">
               <div class="hover-content">
-                <a class="btn btn-light btn-sm" href="{{ .project_url | safeURL }}">ver projet</a>
+                <a class="btn btn-light btn-sm" href="{{ .project_url | safeURL }}">ver projeto</a>
               </div>
             </div>
             {{ end }}

@@ -695,7 +695,7 @@ textarea.form-control {
 }
 
 .footer-section {
-  padding-top: 200px
+  padding-top: 0
 }
 
 .section-on-footer {
@@ -870,4 +870,18 @@ blockquote {
 
 .filter-controls li.active {
   font-weight: 700
+}
+
+.portfolio-single img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  border-radius: 4px;
+  box-shadow: 0 5px 5px 0px rgba(0,0,0,0.25);
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.portfolio-kek .rounded {
+  box-shadow: 0 5px 5px 0px rgba(0,0,0,0.25);
 }
