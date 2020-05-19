@@ -8,7 +8,9 @@ item:
     project_url: "/portfolio/wikipedia"
     category: "branding"
 
-
+  - image: "images/portfolio/agendeja.jpg"
+    project_url: "/portfolio/agendeja"
+    category: "branding"
 
 # client logo slider
 clients_logo_slider:
