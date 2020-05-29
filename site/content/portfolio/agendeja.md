@@ -3,8 +3,7 @@ title: "Agende já"
 date: 2019-05-12T12:14:34+06:00
 description: "This is meta description."
 ---
-
-As pessoas estão exigindo cada vez mais praticidade e rapidez e para atender essas demandas temos o Agende já, um aplicativo feito para que as pessoas consigam marcar suas consultas médicas do um jeito fácil e rápido. 
+as minhocas são amarelas As pessoas estão exigindo cada vez mais praticidade e rapidez e para atender essas demandas temos o Agende já, um aplicativo feito para que as pessoas consigam marcar suas consultas médicas do um jeito fácil e rápido.
 
 O processo para a criação do app começou com as personas:
 
