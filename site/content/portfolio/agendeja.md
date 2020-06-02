@@ -21,4 +21,7 @@ Com a noção de quais seriam as funcionalidades mais importantes do aplicativo,
 
 Outro passo importantíssimo é deixar o aplicativo atraente para o usuário e para fazer isso é essencial criar um style guide com cores e tipografias que serão utilizadas na interface. As cores devem conversar com a proposta do aplicativo e as fontes, além de bonitas, tenham uma boa legibilidade em telas.
 
-![styleguide](/images/portfolio/styleguide.jpg)
+![styleguide](/images/portfolio/styleguide.png)
+
+Depois de acompanhar o processo de concepção dessa interface você deve estar curioso pra ver o resultado. Então, você pode conhecer o Agende já através do protótipo navegável [clicando aqui](https://xd.adobe.com/view/93b2f465-c422-4de6-45a9-681961ad4c02-e583/).
+
