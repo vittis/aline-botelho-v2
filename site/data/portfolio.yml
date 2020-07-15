@@ -1,16 +1,16 @@
 # portfolio item
 item:
-  - image: "images/portfolio/mokcup-desapeguei.jpg"
-    project_url: "/portfolio/desapeguei"
-    category: "design"
-
-  - image: "images/portfolio/mockups-wikipedia-mobile.jpg"
-    project_url: "/portfolio/wikipedia"
-    category: "branding"
-
   - image: "images/portfolio/agendeja.jpg"
     project_url: "/portfolio/agendeja"
     category: "branding"
+    
+  - image: "images/portfolio/mockups-wikipedia-mobile.jpg"
+    project_url: "/portfolio/wikipedia"
+    category: "branding"
+    
+  - image: "images/portfolio/mokcup-desapeguei.jpg"
+    project_url: "/portfolio/desapeguei"
+    category: "design"
 
 # client logo slider
 clients_logo_slider:
