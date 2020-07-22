@@ -25,7 +25,8 @@ p {
   color: #4c4c4c;
   font-size: 15px;
   line-height: 1.8;
-  font-family: roboto, sans-serif
+  font-family: roboto, sans-serif;
+  margin-bottom: 0;
 }
 
 h1,
@@ -35,7 +36,7 @@ h4,
 h5,
 h6 {
   color: #000;
-  font-family: playfair display, serif;
+  font-family: Roboto, serif;
   line-height: 1.2
 }
 
@@ -870,6 +871,10 @@ blockquote {
 
 .filter-controls li.active {
   font-weight: 700
+}
+
+.portfolio-single {
+  max-width:576px;
 }
 
 .portfolio-single img {

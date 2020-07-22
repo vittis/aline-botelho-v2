@@ -26,9 +26,14 @@ Conectar psicólogos voluntários e pacientes com pouco ou nenhum recurso para a
 ### Storytelling
 
 ***Era uma vez*** a Ana, Vendedora, divorciada, com uma filha. Ana costuma aproveitar o tempo livre com a família e amigos.
+
+
 ***Todos os dias*** sai cedo de casa para trabalhar e só volta a noite, algumas vezes participa de happy hour com amigos.
+
 ***Um certo dia*** uma pandemia de uma doença altamente contagiosa aconteceu e todas as pessoas precisaram fazer quarentena e evitar ao máximo o contato físico com outras pessoas para que a doença não se espalhasse tanto
+
 ***Por causa disso,*** ela começou a se sentir muito triste, preocupada  e ansiosa com as consequências causadas pela doença e pelo isolamento social
+
 ***Por causa disso*** ela encontrou um aplicativo que conectava pessoas com psicólogos voluntários
 Até que finalmente começou a fazer sessões com um terapeuta e conseguiu manter suas emoções sob controle em um momento tão difícil quanto esse.
 
