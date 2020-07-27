@@ -58,6 +58,9 @@ Os resultados da pesquisa mostraram que algumas das suposições foram acertadas
 
 Já a suposição de que as pessoas não procuram acompanhamento psicológico por preconceito e pelo estigma que foi alimentado por muito tempo de que “psicólogo é coisa pra gente doida” foi descartada. Isso reforça a importância da pesquisa para que o produto saia bem alinhado com as necessidades dos clientes.
 
+### Mapa de jornada do usuário
+![pesquisa](/images/portfolio/enlevo-mapadejornada.png)
+
 
 ### Solução
 
